@@ -8,5 +8,5 @@ if [ $n -lt 5 ]; then
     exit 1
 else
     echo "✅ Test PASS"
-    exit 0
+    exit 1
 fi
